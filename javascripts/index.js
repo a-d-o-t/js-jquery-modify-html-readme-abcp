@@ -1,1 +1,5 @@
- <script>$("#yo").append("hey hey hey hey!!!!!");</script>
+$(document).ready(function() {
+
+ $("#yo").append("hey hey hey hey!!!!!");
+ 
+})
